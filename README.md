@@ -27,7 +27,9 @@ all the code written in python using azure cloud
 
 Stats:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![yamenka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamenka)](https://github.com/yamenka/github-readme-stats)
+[![yamenka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamenka&show_icons=true&theme=radical)](https://github.com/yamenka/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamenka&layout=compact&show_icons=true&theme=radical)](https://github.com/yamenka/github-readme-stats)
                                                                               
 Languages:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
