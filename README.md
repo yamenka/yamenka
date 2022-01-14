@@ -15,7 +15,8 @@ My name is Yamen Kassem, 2021 graduate, I've been studying Data analysis,
 
 📫 How to reach me: yamenkassemm@gmail.com 
 
-🔭 I’m currently working on Customers Segmentaion using K-means ML model
+🔭 I’m currently working on Customers Segmentaion using K-means ML model, time series forcasting using aroma model,
+all the code written in python using azure cloud 
 
 🌱 I’m currently learning Data and Cloud engineering 
                                                                                                  
