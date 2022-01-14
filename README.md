@@ -1,4 +1,7 @@
 Hi there 👋
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Summary:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 My name is Yamen Kassem, 2021 graduate, I've been studying Data analysis,
                                                                               Data science, Data engineer, ML ( supervised and unsupervised and reinforcement learning ),
                                                                               data science in genomics. for two Years and half now beside my study. 
@@ -11,7 +14,8 @@ My name is Yamen Kassem, 2021 graduate, I've been studying Data analysis,
                                                                               maintain and improve databases and servers architecture. Also I build and use already built ML
                                                                               models for time series forecasting and clustering, Supervised learning, unsupervised and
                                                                               reinforcement learning.
-
+Languages:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📫 How to reach me: yamenkassemm@gmail.com 
 
