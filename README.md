@@ -1,7 +1,6 @@
 
 Data Engineer
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![WhatsApp Image 2022-01-03 at 11 52 32 AM](https://user-images.githubusercontent.com/74372862/149566861-81da8426-09dc-4e04-a972-5b77283f2d39.jpeg)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Summary: 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -18,12 +17,12 @@ My name is Yamen Kassem, 2021 graduate, I've been studying Data analysis,
                                                                               models for time series forecasting and clustering, Supervised learning, unsupervised and
                                                                               reinforcement learning.
 
-📫 How to reach me: yamenkassemm@gmail.com
+ How to reach me: yamenkassemm@gmail.com
 
-🔭 I’m currently working on Customers Segmentaion using K-means ML model, time series forcasting using aroma model,
+ I’m currently working on Customers Segmentaion using K-means ML model, time series forcasting using aroma model,
 all the code written in python using azure cloud
 
-🌱 I’m currently learning Data and Cloud engineering
+ I’m currently learning Data and Cloud engineering
 
 Stats:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
