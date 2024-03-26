@@ -31,11 +31,8 @@ Fundamentals: A solid foundation in design patterns, data structures, and algori
 Through my diverse experience, I have mastered the art of designing, building, and optimizing data platforms that cater to varying business needs. Continual learning and adaptation are at the core of my professional ethos, and I am always keen on harnessing the latest in data technology to drive efficiency and insights.
  How to reach me: yamenkassemm@gmail.com
 
- I’m currently working on Customers Segmentaion using K-means ML model, time series forcasting using aroma model,
-all the code written in python using azure cloud
-
- I’m currently learning Data and Cloud engineering
-
+Bachelors degree in pharmaceutical science from Misr International university 
+Masters degree in Software Engineering from University of westminster
 Stats:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![yamenka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamenka&show_icons=true&theme=radical)](https://github.com/yamenka/github-readme-stats)
