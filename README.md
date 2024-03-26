@@ -4,19 +4,31 @@ Data Engineer
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Summary: 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-My name is Yamen Kassem, 2021 graduate, I've been studying Data analysis,
-                                                                              Data science, Data engineer, ML ( supervised and unsupervised and reinforcement learning ),
-                                                                              data science in genomics. for two Years and half now beside my study. 
-                                                                              I've been coding in python for 2 years and half now , R for 1 and half year now,
-                                                                              Scala for few months and I'm willing to study java, java script and NLP.
-                                                                              I build different types of real-time dashboards for healthcare entities,
-                                                                              building and maintaining ETLs for big data using Apache spark,
-                                                                              Apache airflow for maintaining and scheduling ETLs, Write advanced linux commands
-                                                                              for configuring difficult softwares and making softwares as services,
-                                                                              maintain and improve databases and servers architecture. Also I build and use already built ML
-                                                                              models for time series forecasting and clustering, Supervised learning, unsupervised and
-                                                                              reinforcement learning.
+I am a seasoned Data Engineer with a multifaceted expertise spanning across batch and real-time pipeline applications. My experience encompasses both on-premise and cloud-based platforms, ensuring that I am adept at handling diverse data infrastructures.
 
+Core Competencies:
+
+Infrastructure Design: Possess substantial experience in designing robust data infrastructures tailored to business needs, ensuring scalability and optimal performance.
+
+Programming Languages: Python, Java, C#, R and SQL 
+
+API Development: Profound experience in crafting efficient APIs using FastAPI, Flask, and Django, seamlessly integrating them into data ecosystems.
+
+On-Premise Tools: Proficient in Spark, Airflow, Beam, Flink, Kafka, and Prefect to build robust data pipelines.
+
+AWS: Adept in leveraging S3, Lambda, Glue, Data Catalog, Athena, EMR (including EMR Server-less), EC2, Kinesis, RDS, Redshift, Snowflake, and ECR. I regularly utilize CloudWatch, SNS, VPC, and IAM to optimize and monitor these applications.
+
+GCP: My expertise extends to Google Cloud, using Cloud Functions, Dataflow, Beam, Java, Bigtable, BigQuery, Pub/Sub, GCS, and Cloud SQL.
+
+Azure: While I have the most expansive knowledge on AWS and GCP, I also bring practical experience on Azure's data platforms.
+
+Databases: Strong command over SQL databases such as MySQL, PostgreSQL, SQL Server, Snowflake, BigQuery, Spanner, Redshift and Redis complemented by my NoSQL database knowledge in Bigtable and MongoDB, understanding their intricate schemas.
+
+Development and Deployment Tools: Proficient in Docker, container orchestration, and consistently incorporate best practices using GitHub and GitHub Actions.
+
+Fundamentals: A solid foundation in design patterns, data structures, and algorithms ensures I can tackle complex problems with effective solutions.
+
+Through my diverse experience, I have mastered the art of designing, building, and optimizing data platforms that cater to varying business needs. Continual learning and adaptation are at the core of my professional ethos, and I am always keen on harnessing the latest in data technology to drive efficiency and insights.
  How to reach me: yamenkassemm@gmail.com
 
  I’m currently working on Customers Segmentaion using K-means ML model, time series forcasting using aroma model,
